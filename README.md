@@ -1,5 +1,5 @@
 # 「套件→軟體包」翻譯異動意向調查<br>"套件→軟體包" Translation Transfer Agreement Survey
-http://bit.ly/package-tw-translation-transfer-agreement-survey
+https://github.com/l10n-tw/package-tw-translation-transfer-agreement-survey
 
 * 請留下您的聯絡電子郵件地址，若未來調查方式異動可能需要重新統計您的意向
 * 調查結果為意向之蒐集之用**並沒有決定提案存續與否的效果**，敬請諒解
