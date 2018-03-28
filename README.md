@@ -10,7 +10,7 @@ https://github.com/l10n-tw/package-tw-translation-change-agreement-survey
 * 請依照 [Developer Certificate of Origin](https://developercertificate.org/) 的慣例在版本提交(commit)訊息中加入 Signed-off-by: 欄位  
   [git commit - What is the Sign Off feature in Git for? - Stack Overflow](https://stackoverflow.com/questions/1962094/what-is-the-sign-off-feature-in-git-for)
 
-# 附議名單<br>YES
+## 附議名單<br>YES
 如果您**支持**這項異動，請在此署名
 
 * 林博仁 &lt;<Buo.Ren.Lin@gmail.com>&gt;
