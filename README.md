@@ -18,8 +18,14 @@ https://github.com/l10n-tw/package-tw-translation-change-agreement-survey
 ## 異議名單<br>NO
 如果您**反對**這項異動，請在此署名
 
+* 
+
 ## 中立名單<br>NEUTRAL
 如果您**不支持也不反對**這項異動，請在此署名
 
+* 
+
 ## 他議名單<br>OTHER
 如果您這項異動的形式、範疇等**有不同想法**請在此署名並提供您的意見
+
+* 
