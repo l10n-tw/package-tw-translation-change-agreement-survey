@@ -2,7 +2,7 @@
 https://github.com/l10n-tw/package-tw-translation-change-agreement-survey
 
 ## 注意事項<br>NOTICE
-* 請留下您的聯絡電子郵件地址，若未來調查方式異動可能需要重新統計您的意向
+* 請留下您的聯絡電子郵件地址，若未來調查方式異動可能需要通知您以重新統計您的意向
 * 調查結果為意向之蒐集之用**並沒有決定提案存續與否的效果**，敬請諒解
 
 ## 署名方法<br>HOWTO
