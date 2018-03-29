@@ -1,4 +1,4 @@
-# 「套件→軟體包」翻譯異動意向調查<br>"套件→軟體包" Translation Change Agreement Survey
+# 「套件→軟體包」台灣翻譯異動意向調查<br>"套件→軟體包" Taiwan Translation Change Agreement Survey
 https://github.com/l10n-tw/package-tw-translation-change-agreement-survey
 
 ## 注意事項<br>NOTICE
